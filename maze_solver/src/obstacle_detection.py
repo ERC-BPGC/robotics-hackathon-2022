@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from shapely.geometry import Polygon, Point, LineString
 
-# Walls represnted as rectangles when viewed from top. The wall_array consists of an array of objects of the type Wall
+# Walls represented as rectangles when viewed from top. The wall_array consists of an array of objects of the type Wall
 class Wall:
     def __init__(self,centerX,centerY,length,width):
         self.centerX = centerX
