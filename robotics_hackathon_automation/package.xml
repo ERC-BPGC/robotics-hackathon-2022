@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>maze_solver</name>
+  <name>robotics_hackathon_automation</name>
   <version>0.0.0</version>
-  <description>The maze_solver package</description>
+  <description>The robotics_hackathon_automation package</description>
 
 
   <maintainer email="dhruv@todo.todo">dhruv</maintainer>
