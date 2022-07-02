@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <launch>
 	
-	<arg name="x" default="-3.0" />
-	<arg name="y" default="-2.0" />
+	<arg name="x" default="-3.27" />
+	<arg name="y" default="-2.46" />
 	<arg name="z" default="0.0" />
 	
 
