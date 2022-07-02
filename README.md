@@ -72,7 +72,7 @@ sudo apt-get install ros-noetic-turtlebot3
 ```
 <br>
 
-**Install turtlebot3 simulation package:**
+**Install turtlebot3 simulation package:**<br>
 Navigate to your catkin workspace source folder
 ```
 cd ~/catkin_ws/src/
