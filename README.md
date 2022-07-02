@@ -65,7 +65,7 @@ sudo apt-get install ros-noetic-dynamixel-sdk
 ```
 
 ```
-sudo apt-get install ros-noetic-turtlebot3-msgturtlebot3s
+sudo apt-get install ros-noetic-turtlebot3-msgs
 ```
 ```
 sudo apt-get install ros-noetic-turtlebot3
