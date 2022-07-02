@@ -39,7 +39,7 @@ To verify, use this command:
 gazebo --version
 ```
 If you are able to see the version, Gazebo is installed.<br><br>
-4. TurtleBot3 [Setup manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/) (**NOTE:** Change kinetic to melodic if you follow the instructions in the link)<br>
+4. TurtleBot3 [Setup manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/) (**NOTE:** Change kinetic to noetic if you follow the instructions in the link)<br>
 <br>
 
 #### Detailed setup instructions for turtlebot3: 
