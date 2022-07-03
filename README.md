@@ -8,6 +8,8 @@ In case of any queries contact:<br>
 Aditya Parandekar: +919922924118<br>
 Atharva Ghotavadekar: +919767280239<br>
 Dhruv Potdar: +917045030300
+
+#### Teams with complete submissions will be inducted into ERC!
 ___
 
 ## Problem Statement
