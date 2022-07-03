@@ -3,7 +3,11 @@
 This repository contains all of the instructions and files required to solve the Electronics and Robotics Club's Robotics Hackathon 2022.<br><br>
 The hackathon is focused on the design of an **autonomous floor cleaning robot**. Your team has to provide a solution consisting of the mechanical design, electronics interfacing and an implementation of autonomous behavior. All three tasks are linked to the same final goal and yet can be completed independently.<br><br>
 The registration form link can be found [here](https://forms.gle/kGx4twvimtrfr9n88).<br><br>
-The tentative deadline for submission is **11:59 P.M.** on **31st August 2022**
+The tentative deadline for submission is **11:59 P.M.** on **31st August 2022**<br><br>
+In case of any queries contact:<br>
+Aditya Parandekar: +919922924118<br>
+Atharva Ghotavadekar: +919767280239<br>
+Dhruv Potdar: +917045030300
 ___
 
 ## Problem Statement
