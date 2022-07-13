@@ -32,7 +32,9 @@ ___
 Use [Fusion 360](https://www.autodesk.in/products/fusion-360/education) for CAD modelling.
 
 ### Electronics Design and Interfacing
-The circuit simulation is to be done using the [Wokwi](https://wokwi.com/) simulator which does not require any installation.
+The circuit simulation is to be done using the [TinkerCad](https://www.tinkercad.com/) simulator which does not require any installation.<br><br>
+**Important Clarification**: Use an **Arduino Uno** along with other required components for the electronics simulation task.
+<br>
 
 ### Automation (Perception, Planning and Control)
 The following are the system requirements for simulating the automation task:
